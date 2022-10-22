@@ -34,4 +34,3 @@
 > - `Document.querySelector()` To get HTML elements
 > - `Element.classList.add(), Element.classList.remove(), and Element.classList.toggle()` To toggle classes in elements.
 > - `array.forEach()` To run a loop on the sections and nav-bar items."# landing-page" 
-"# landing-page"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/omarelmahalawy/landing-page.git git push -u origin main
